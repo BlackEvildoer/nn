@@ -49,7 +49,7 @@ def cb():
     
 
 
-logo = logo = '\n\x1b[1;93m tlgram:i4m_mrx\n\x1b[1;92m tiktok:i4m_mrx\n\x1b[1;92m youtube:hamarang gaming\n\x1b[1;94m bo am xata na basha (Korek , Tplink , Asia ,)\n'
+logo = logo = '\n\x1b[1;93m TELEGRAM :B_1_2_4\n\x1b[1;92mTELEGRAM CHANEL :BESTxHACKER\n\x1b[1;94m THIS TOOL GOOD BY [ KOREK , TP-LINK , ASIA ]\n'
 back = 0
 successful = []
 cpb = []
